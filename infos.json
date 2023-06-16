@@ -1,0 +1,13 @@
+{
+"displayName" : "detectwsl",
+"author" : ["Yoann LECLERC"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Affiche les distribution WSL par utilisateurs actif",
+		"en" : "Displays WSL distributions per active user "
+    }
+}
